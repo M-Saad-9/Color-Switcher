@@ -1,0 +1,76 @@
+h1{
+  text-align: center;
+  font-size: 3rem;
+}
+.box{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px 
+}
+#yellow {
+  background-color: yellow;
+  border: 2px solid black;
+  width: 300px;
+  height: 200px;
+}
+#green {
+  background-color: greenyellow;
+  border: 2px solid black;
+  
+  width: 300px;
+  height: 200px;
+}
+#red {
+  background-color: red;
+  border: 2px solid black;
+
+  width: 300px;
+  height: 200px;
+}
+#blue {
+  background-color: blue;
+  border: 2px solid black;
+
+  width: 300px;
+  height: 200px;
+}
+#purple {
+  background-color: purple;
+  border: 2px solid black;
+
+  width: 300px;
+  height: 200px;
+}
+#orange {
+  background-color: orange;
+  border: 2px solid black;
+
+  width: 300px;
+  height: 200px;
+}
+#pink {
+  background-color: pink;
+  border: 2px solid black;
+
+  width: 300px;
+  height: 200px;
+}
+#grey {
+  background-color: gray;
+  border: 2px solid black;
+
+  width: 300px;
+  height: 200px;
+}
+#black {
+  background-color: black;
+  border: 2px solid white;
+
+  width: 300px;
+  height: 200px;
+}
+p{
+  text-align: center;
+  font-size: 2rem
+}
